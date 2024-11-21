@@ -15,6 +15,7 @@ const products: Product[] = [
 const totalCost = total(products);
 console.log(totalCost + "$");
 
+////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Fifth Task :
 function isValidEmail(email: string): boolean {

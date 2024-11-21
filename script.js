@@ -7,6 +7,9 @@ const avg = (sum(points)/points.length)
 console.log(sum(points))
 console.log(avg)
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
 // Third Task :
 const RemoveSimilar=(arr)=>{
     let set = new Set(arr)
